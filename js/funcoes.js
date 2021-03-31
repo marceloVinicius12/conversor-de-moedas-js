@@ -12,3 +12,4 @@ let valorEmReal = valorEmDolarNumero * 5.77;
 
 let valorEmRealFixado = valorEmReal.toFixed(2); 
 alert(valorEmRealFixado);
+
